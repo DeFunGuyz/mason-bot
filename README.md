@@ -1,2 +1,2 @@
-# mason-bot
+# Mason Bot
 Mason bot is a discord bot built for foundation and and the building of a discord server.
